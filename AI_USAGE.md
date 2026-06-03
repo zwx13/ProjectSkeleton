@@ -7,11 +7,12 @@ In this file, we mention where in the project we used AI, what model, and the wa
 *   **Chat GPT**
 
 ## 2. Methodology & Utilization
-Google Gemini was used in the development process in the following way:
-*   **Clarifications & Conceptual Questions:** Used to ask theoretical questions anout C#, .NET.
-*   **Tweaking code**: Parts of the code were cleaned up using the suggestions made by AI (Gemini)
-*   **Debugging:** Used in troubleshooting errors, analyzing stack traces, and resolving bugs.
-*   **Asset Generation:** Used to generate visual one visual asset for the project.
+Google Gemini (chat based) was used in the development process in the following way:
+*   **Clarifications & Conceptual Questions:** Used to ask theoretical questions about C#, .NET, code structure.
+*   **Tweaking code**: Parts of the code were cleaned up using the suggestions made by AI (Gemini) to make the code easier to read.
+*   **Debugging:** Used in troubleshooting code errors.
+Chat GPT was used for:
+*   **Asset Generation:** Used to generate one visual asset for the project.
 
 ## 3. Summary, clarification
 
